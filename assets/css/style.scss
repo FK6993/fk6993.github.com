@@ -2,12 +2,16 @@
 ---
 
 @import "{(site.theme}}";
-@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
-body {font-family: 'Ubuntu', sans-serif;}
+@import url("https://fonts.googleapis.com/css?family=Ubuntu&display=swap");
+body {
+  font-family: "Ubuntu", sans-serif;
+}
 
-h1;
-h2;
-h3;
-h4;
-h5;
-h6{color: #800000;}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #800000;
+}
