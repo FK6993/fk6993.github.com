@@ -22,10 +22,15 @@ Das stetige Streben nach Individualität beim Endkonsumenten stellt die Unterneh
 ## 4 Manifesto for Agile Software Development
 
 Um die Leistungen an den Kunden besser abstimmen zu können, haben Softwareentwickler das „Manifesto for Agile Software Development“ formuliert. Dieses 2001 veröffentlichte Werk ist nach wie vor ein Leitfaden für die Entwicklung agiler Software, die im Zeitalter der Industrie 4.0 implementiert wird. Dabei bilden vier Leitsätze das Gerüst für eine erfolgreiche agile Softwareentwicklung in der Zukunft. So heißt es im Manifest, dass Softwareentwickler „bessere Wege erschließen, Software zu entwickeln, indem [sie] es selbst tun anderen dabei helfen. Durch diese Tätigkeit [wurden] diese Werte schätzen gelernt:
+
 • Individuen und Interaktionen stehen über Prozessen und Werkzeugen
+
 • Funktionierende Software steht über einer umfassenden Dokumentation
+
 • Zusammenarbeit mit dem Kunden steht über der Vertragsverhandlung
+
 • Reagieren auf Veränderung steht über dem Befolgen eines Plans
+
 Das heißt, obwohl [sie] die Werte auf der rechten Seite wichtig finden, schätzen [sie] die Werte auf der linken Seite höher ein“ (Manifesto for Agile Software Development, 2001). Den stärksten Bezug zu der Thematik dieser Hausarbeit hat der Wert der Zusammenarbeit mit dem Kunden. Der Kunde übernimmt im Zuge der Customization immer häufiger den Part des Koproduzenten. Der IKEA-Effekt beispielsweise beschreibt den Kunden als aktiven Part in der Wert-schöpfungskette. Er kauft die Ware unfertig im Möbelhaus ein und baut das Möbelstück auf. Während der Kunde die Ware aktiv zusammenbaut erhöht sich seine Wertschätzung gegenüber dem Endprodukt (Norton et. al., 2012, S.4).
 
 ## 5 Mass Customization
