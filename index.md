@@ -1,10 +1,11 @@
 # MASS CUSTOMIZATION ALS ZIEL DER INDUSTRIE 4.0
 
-![London](01.jpg)
+![3D](Bild02)
 
 ## 1 Einleitung
 
 „You can converge a toaster and refrigerator, but these things are probably not going to be pleasing to the user“ - Tim Cook
+
 Dieses Zitat von Apple-CEO Tim Cook unterstreicht die Wichtigkeit der Kundenzufriedenheit im Zeitalter der Industrie 4.0. Doch wie lässt sich mit Innovationen des digitalen Zeitalters die Zufriedenheit beim Kunden erhöhen? Dieser Frage wird in der folgenden Arbeit auf den Grund gegangen. Eine mögliche Antwort könnte in der Implementierung von Mass Customization Verfahren liegen. Um sich jedoch der Beantwortung dieser Frage zu nähern wird zunächst festgehalten, was generelle Zielsetzungen der Industrie 4.0 sind. Es erfolgt darüber hinaus eine genauere Betrachtung der Variable Kunden-beziehungen im Zeitalter die Industrie 4.0. Anschließend werden Verfahren aufgezeigt, derer sich Unternehmen im digitalen Zeitalter bedienen, um einerseits die Kundenzufriedenheit zu erhöhen und andererseits weiterhin wirtschaftlich agieren zu können. Dabei liegt das Hauptaugenmerk auf der erfolgreichen Implementierung von Mass Customization Verfahren.
 
 ## 2 Ziele der Industrie 4.0
@@ -30,11 +31,17 @@ Das heißt, obwohl [sie] die Werte auf der rechten Seite wichtig finden, schätz
 ## 5 Mass Customization
 
 Die Mass Customization greift nun diesen Punkt auf und erweitert ihn dahingehend, dass Unternehmen kundenindividualisierte Massenfertigung bieten wollen, um sowohl Skaleneffekte der Massenanfertigung als auch den erhöhten Kundennutzen durch individuelle Produkte erreichen zu können. Da Letzteres mit hohen Kosten verbunden ist, sollen im Zuge der agilen Softwareentwicklung Lösungen gefunden werden, die auf der einen Seite Kosten senken, auf der anderen Seite den Kunden bestmöglich in den Wertschöpfungsprozess einbeziehen (Piller, 2008, S.20).
-7.1 Order Penetration Point
+
+5.1 Order Penetration Point
+
 Dies gelingt, indem Unternehmen den Order Penetration Point, also den Zeitpunkt, ab dem das Produkt/ ein Bauteil des Produkts einem Kundenauftrag zugerechnet werden kann, möglichst weit in Richtung Endprodukt verlagern. Diejenigen Aktivitäten, die im Prozess dem Order Penetration Point vorgelagert sind (z.B. Materialeinkauf oder Teilmontage) können per Software prognosegetrieben massengefertigt werden. Bei der Endmontage der Bauteile kommt nun der Kniff, dass die Wunschspezifikationen des Kunden berücksichtigt werden können. So erhöht sich im Gegensatz zu herkömmlichen standardisierten Produktionsverfahren die Individualität, wobei die Kosten trotz komplexerer Verfahren gering bleiben können (Steven, 2019, S. 172).
 Das Baukastenprinzip beschreibt die Zusammenstellung eines Produkts aus standardisierten Bauteilen und Komponenten. Diese Art der Mass Customization ist bereits vor dem Zeitalter der Industrie 4.0 implementiert worden. In der Automobilindustrie beispielsweise kann der Kunde aus unterschiedlichen Einzelteilen ein individuelles Auto zusammenstellen.
-7.2 Additive Fertigung
+
+5.2 Additive Fertigung
+
 Neu kommt in der Industrie 4.0 die additive Fertigung hinzu. Dazu zählt eine Gruppe von Fertigungsverfahren, die dreidimensionale Bauteile in einem automatisierten, schichtweisen Prozess aus einem formlosen oder formneutralen Material aufbauen (Klahn, 2018, S. 11). Demnach werden nun Endprodukte exakt nach Kundenwunsch hergestellt. Dies ist dadurch möglich, dass 3D-Drucker via eines vom Kunden gestalteten Modells ein individuelles Produkt erzeugen können. Ein solcher Prozess kann fernab aller von der Massenproduktion vorgegebener Rahmen entstehen. Vorteil dabei ist bei vorhandener Infrastruktur die individuellen Produkte kostengünstig und ohne Einschränkungen herstellen zu können. Ein digitales Modell wird mittels Software erstellt und an ein cyberphysisches System weitergeleitet. An-schließend wird das Endprodukt erzeugt. So lassen sich möglichst viele Ansprüche an die Komponenten des Endproduktes kombinieren (Klahn, 2018, S. 27f.). Durch die Entwicklung von Laserdruckern ist dieser Vorgang in der Praxis umsetzbar geworden. Die Ausgestaltung eines solchen Prozesses der additiven Fertigung lässt sich folgendermaßen vereinfacht darstellen:
+
+![SignavioBPMN](Bild03)
 
 Durch die Einbindung des Kunden in den Fertigungsprozess entsteht auf Seiten des Customer Relationship Managements ebenfalls der Vorteil, dass Kunden-daten insoweit genutzt werden können, als dass sich Angebote noch individueller auf Kunden zuschneiden lassen. Somit wird sich im Laufe der Zeit ebenfalls die Kundenzufriedenheit erhöhen (Steven, 2019, S. 173).
 
