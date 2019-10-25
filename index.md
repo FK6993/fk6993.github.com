@@ -1,6 +1,6 @@
 # MASS CUSTOMIZATION ALS ZIEL DER INDUSTRIE 4.0
 
-![3D](Bild02)
+![3D](Bild02.jpg)
 
 ## 1 Einleitung
 
@@ -46,7 +46,7 @@ Das Baukastenprinzip beschreibt die Zusammenstellung eines Produkts aus standard
 
 Neu kommt in der Industrie 4.0 die additive Fertigung hinzu. Dazu zählt eine Gruppe von Fertigungsverfahren, die dreidimensionale Bauteile in einem automatisierten, schichtweisen Prozess aus einem formlosen oder formneutralen Material aufbauen (Klahn, 2018, S. 11). Demnach werden nun Endprodukte exakt nach Kundenwunsch hergestellt. Dies ist dadurch möglich, dass 3D-Drucker via eines vom Kunden gestalteten Modells ein individuelles Produkt erzeugen können. Ein solcher Prozess kann fernab aller von der Massenproduktion vorgegebener Rahmen entstehen. Vorteil dabei ist bei vorhandener Infrastruktur die individuellen Produkte kostengünstig und ohne Einschränkungen herstellen zu können. Ein digitales Modell wird mittels Software erstellt und an ein cyberphysisches System weitergeleitet. An-schließend wird das Endprodukt erzeugt. So lassen sich möglichst viele Ansprüche an die Komponenten des Endproduktes kombinieren (Klahn, 2018, S. 27f.). Durch die Entwicklung von Laserdruckern ist dieser Vorgang in der Praxis umsetzbar geworden. Die Ausgestaltung eines solchen Prozesses der additiven Fertigung lässt sich folgendermaßen vereinfacht darstellen:
 
-![SignavioBPMN](Bild03)
+![SignavioBPMN](Bild03.jpg)
 
 Durch die Einbindung des Kunden in den Fertigungsprozess entsteht auf Seiten des Customer Relationship Managements ebenfalls der Vorteil, dass Kunden-daten insoweit genutzt werden können, als dass sich Angebote noch individueller auf Kunden zuschneiden lassen. Somit wird sich im Laufe der Zeit ebenfalls die Kundenzufriedenheit erhöhen (Steven, 2019, S. 173).
 
